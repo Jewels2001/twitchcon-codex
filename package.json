@@ -1,0 +1,16 @@
+{
+  "name": "twitchcon-codex",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "jewels2001",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "ws": "^8.22.0"
+  }
+}
